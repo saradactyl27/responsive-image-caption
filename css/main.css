@@ -28,7 +28,6 @@ body {
 
 .banner-inner {
   background-color: #e2e2e2;
-  font-size: 1.5;
   padding: 1.2rem;
   margin: 0;
 }
@@ -36,6 +35,7 @@ body {
 h2 {
   font-family: "Denk One", sans-serif;
   margin-top: 0;
+  font-size: 1.5rem;
 }
 
 p {
